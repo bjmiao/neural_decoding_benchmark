@@ -1,4 +1,8 @@
- # Python
+# log files
+logs/
+
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class

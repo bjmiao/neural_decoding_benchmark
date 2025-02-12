@@ -1,3 +1,3 @@
-from .toy_formatter import ToyFormatter
+from .simple_split_formatter import SimpleSplitFormatter
 
-__all__ = ['ToyFormatter'] 
+__all__ = ['SimpleSplitFormatter'] 

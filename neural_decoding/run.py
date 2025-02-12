@@ -146,7 +146,7 @@ def main():
         logger.info(f"Decoding results: {scores}")
         
     except Exception as e:
-        logger.error(f"Error during decoding: {str(e)}", exc_info=True)
+        print(f"Error during decoding: {str(e)}", exc_info=True)
         raise
 
 if __name__ == "__main__":

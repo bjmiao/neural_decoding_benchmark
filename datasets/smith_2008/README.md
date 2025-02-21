@@ -11,7 +11,7 @@ Data from V1 of 3 anesthetized monkeys were recorded. According to the authors, 
 
 - Each data entry represents the spike count of $$neuron_i$$ when shown a drifting grating of $$orientation_j$$ on $$trial_k$$. The spike counts are calculated by summing the number of spikes within the 0.28 - 1.28 one-second window post grating onset
 - Note that the number of neurons (nNeu) is different across monkeys, while number of trials / repeats (nTrial) is 200 and number of orientations (nOri) is 12 throughout all monkeys' recording sessions
-- The value of orientations in the spike couunt data is the same as that of the **orientations** vector specified below
+- The value of orientations in the spike count data is the same as that of the **orientations** vector specified below
 
 **orientations**: vector with the following dimensions 
 | Dimensions | Data Type |
